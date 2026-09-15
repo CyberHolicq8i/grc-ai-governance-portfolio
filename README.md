@@ -11,6 +11,7 @@ Work samples from my transition into Cybersecurity GRC & AI Governance — risk 
 | [SOC 2 ↔ ISO 27001 control mapping](soc2-iso27001-control-mapping.md) | Mapping a set of controls between the two frameworks | Done |
 | [Third-party AI vendor risk assessment](third-party-ai-vendor-risk-assessment.md) | Evaluating a hypothetical AI vendor's data handling, model transparency, and SLAs | Done |
 | [AI incident tabletop exercise](ai-incident-tabletop-exercise.md) | Written walkthrough of an org's response to an AI system failure | Done |
+| [AI-Assisted Email Risk Triage](ai-email-risk-triage-case-study.md) | AI-assisted triage of a real inbox against a risk taxonomy — two false-positive phishing scares and what verified them | Done |
 
 ## Why this exists
 
